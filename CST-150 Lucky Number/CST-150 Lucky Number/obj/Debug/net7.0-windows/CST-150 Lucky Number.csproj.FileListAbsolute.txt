@@ -1,0 +1,19 @@
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.csproj.AssemblyReference.cache
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST_150_Lucky_Number.PresentationLayer.FrmInfo.resources
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST_150_Lucky_Number.PresentationLayer.FrmLucky.resources
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST_150_Lucky_Number.Properties.Resources.resources
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.csproj.GenerateResource.cache
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.AssemblyInfoInputs.cache
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.AssemblyInfo.cs
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\bin\Debug\net7.0-windows\CST-150 Lucky Number.exe
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\bin\Debug\net7.0-windows\CST-150 Lucky Number.deps.json
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\bin\Debug\net7.0-windows\CST-150 Lucky Number.runtimeconfig.json
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\bin\Debug\net7.0-windows\CST-150 Lucky Number.dll
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\bin\Debug\net7.0-windows\CST-150 Lucky Number.pdb
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.dll
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\refint\CST-150 Lucky Number.dll
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.pdb
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\CST-150 Lucky Number.genruntimeconfig.cache
+C:\Users\amypark\source\repos\CST-150 Lucky Number\CST-150 Lucky Number\obj\Debug\net7.0-windows\ref\CST-150 Lucky Number.dll
